@@ -1,0 +1,217 @@
+.container{
+    width: 1000px;
+    height: 150vh;
+    background-color: rgb(253, 252, 252);
+    border: 1px solid rgb(255, 255, 255);
+    display: flex;
+    padding-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-left: white;
+}
+.r1{
+    width:1015px;
+    height:50px;
+    border:1px solid rgb(250, 248, 248);
+    position: absolute;
+    left:18px;
+    background-color: white;
+    border-left: white;
+    border-right: white;
+}
+.r1>img{
+    margin-top:5px;
+}
+.r1>a{
+    position: absolute;
+    top:15px;
+}
+.im1>img{
+    position: absolute;
+    top:20px;
+    left:920px;
+}
+.im2>img{
+    position: absolute;
+    top:20px;
+    left:960px;
+}
+.im3>img{
+    position: absolute;
+    top:20px;
+    left:995px;
+}
+
+.r2{
+    width:1015px;
+    height:30px;
+    border: rgb(211, 210, 210);
+    position: absolute;
+    left:18px;
+    top:66.5px;
+    background-color: rgb(211, 210, 210);
+}
+.r2>img{
+    position:absolute;
+    left:5px;
+}
+.r2>b{
+    font-size: 11px;
+    position:absolute;
+    left:35px;
+    top:6px;
+}
+.r3{
+    width:1015px;
+    height:150px;
+    border:1px solid rgb(252, 251, 251);
+    position: absolute;
+    left:18px;
+    top:90px;
+    background-color: rgb(253, 253, 253);
+
+}
+.r3>img{
+    margin-top:10px;
+}
+.r3>a{
+    position:absolute;
+    top:15px;
+    font-size:14px;
+    margin:10px;
+}
+
+.r3>b{
+    position:absolute;
+    top:15px;
+    font-size:14px;
+    margin:10px;
+    left:300px;
+}
+
+.r3>h4{
+    position:absolute;
+    top:50px;
+    font-size:10px;
+    margin:10px;
+    left:302px;
+    color:grey;
+}
+
+.pic>img{
+    position:absolute;
+    top:90px;
+    left:315px;
+}
+
+.pic>b{
+    position:absolute;
+    top:92px;
+    left:340px;
+    font-size: 12px;
+}
+.pic>button{
+    position:absolute;
+    top:120px;
+    left:310px;
+    font-size: 12px;
+    background-color: green;
+    border:green;
+    color:white;
+    text-align: center;
+
+}
+.r4{
+    width:1010px;
+    height:30px;
+    border:1px solid rgb(250, 247, 247);
+    position: absolute;
+    left:20px;
+    top:243px;
+    background-color: blue;
+    border-radius: 5px;
+}
+.r4>a{
+    font-size: 12px;
+    position:absolute;
+    top:8px;
+    left:450px;
+    color:white;
+}
+.r5{
+    width:1015px;
+    height:150px;
+    border:1px solid rgb(250, 247, 247);
+    position: absolute;
+    left:18px;
+    top:280px;
+    background-color: rgb(252, 250, 250);
+    border-radius: 5px;
+}
+.r5>img{
+    position:absolute;
+    left:5px;
+}
+.r5>a{
+    position:absolute;
+    top:5px;
+    font-size:14px;
+    margin:10px;
+    left:42px;
+}
+.pic2>img{
+    position:absolute;
+    top:370px;
+    left:407px;
+
+}
+.pic2>b{
+    position:absolute;
+    top:370px;
+    left:430px;
+    font-size: 12px;
+
+}
+.pic2>button{
+    position:absolute;
+    top:400px;
+    left:405px;
+    font-size: 12px;
+    background-color: green;
+    border:green;
+    color:white;
+    text-align: center;
+
+}
+.r5>b{
+    position:absolute;
+    top:16px;
+    left:380px;
+    font-size:14px;
+}
+.r5>h4{
+    position:absolute;
+    top:40px;
+    font-size:10px;
+    margin:10px;
+    left:375px;
+    color:grey;
+
+}
+.r6{
+    width:1010px;
+    height:30px;
+    border:1px solid blue;
+    position: absolute;
+    left:20px;
+    top:433px;
+    background-color: blue;
+    border-radius: 5px;
+}
+.r6>a{
+    font-size: 12px;
+    position:absolute;
+    top:8px;
+    left:450px;
+    color:white;
+    
+}
